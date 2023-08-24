@@ -16,6 +16,10 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+
+
+- Vue
+- Tutorial Gym dari rumah by pak dika
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
